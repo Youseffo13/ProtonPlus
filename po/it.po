@@ -1499,8 +1499,8 @@ msgid ""
 "For stability reasons, I've decided to disable Bottles and Heroic Games "
 "Launcher support for now. I also disabled Proton Tkg for the same reasons."
 msgstr ""
-"Per motivi di stabilità, ho deciso di disabilitare il supporto per Bottles e"
-" Heroic Games Launcher per ora. Ho anche disabilitato Proton Tkg per gli "
+"Per motivi di stabilità, ho deciso di disabilitare il supporto per Bottles e "
+"Heroic Games Launcher per ora. Ho anche disabilitato Proton Tkg per gli "
 "stessi motivi."
 
 #: data/com.vysp3r.ProtonPlus.metainfo.xml.in:930
